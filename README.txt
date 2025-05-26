@@ -3,7 +3,7 @@ This project is an IoT-based Smart Waste Management System designed for campus e
 Key Features:
 Ultrasonic Sensor: Measures the distance from the lid to the trash level to determine if the bin is full or empty.
 
-OLED/Display Module: Displays the real-time distance value along with messages:
+LCD Display Module: Displays the real-time distance value along with messages:
 
 "Use the bin" when the bin is available (not full)
 
